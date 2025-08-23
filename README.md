@@ -8,7 +8,7 @@ A collection of intermediate Python projects building on fundamental concepts.
 2. **Number Guessing Game** - User input, random numbers, and game logic  
 3. **Word Frequency Counter** - Text processing and data analysis
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Random module (for guessing game)
