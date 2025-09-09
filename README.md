@@ -21,9 +21,3 @@ A collection of intermediate Python projects building on fundamental concepts.
 - Text processing and data analysis
 - Error handling and input validation
 
-##  How to Run
-
-Each exercise is self-contained. Navigate to any exercise folder and run:
-
-```bash
-python exercise_name.py
